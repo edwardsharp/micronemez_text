@@ -1,0 +1,14 @@
+{
+  "name":    "micronemez-text",
+  "version": "0.0.1",
+
+  "description": "MCRNMZ app for Heroku, Node.js style",
+
+  "dependencies": {
+    // "async":     "0.1.18",
+  },
+
+  "engines": {
+    "node": "0.8.x"
+  }
+}
