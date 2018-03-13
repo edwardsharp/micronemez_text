@@ -1,10 +1,10 @@
 {
   "name":    "micronemez-text",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "description": "MCRNMZ app for Heroku, Node.js style",
 
   "engines": {
-    "node": "0.8.x"
+    "node": ">=0.8.x"
   }
 }
